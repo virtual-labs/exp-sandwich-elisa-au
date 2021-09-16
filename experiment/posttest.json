@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The substrate of Horse radish peroxidase is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3,3’,5,5’-tetramethylbenzidine(TMB)",
+        "b": "4-methylumbelliferyl phosphate(MUP)",
+        "c": "p-nitrophenyl phosphate(NPP)",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. An ELISA can be used for: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "quantitative analysis",
+        "b": "size analysis",
+        "c": "absorbance measurements",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.Which is not true for a blocking buffer solution ?",
+      "answers": {
+        "a": "binds to all potential sites of nonspecific interaction",
+        "b": "improves the sensitivity of an assay by reducing background signal",
+        "c": "improves the signal-to-noise ratio",
+        "d": "alters or obscures the epitope for antibody binding"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Washing step can be performed with a physiologic buffer such as Tris-buffered saline (TBS) or phosphate-buffered saline (PBS):",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
