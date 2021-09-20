@@ -46,13 +46,13 @@
  
 Weigh 0.23 g NaH2PO4 (anhydrous; 1.9 mM), 1.15 g Na2HPO4 (anhydrous; 8.1 mM), 9.00 g NaCl (154 mM), 0.5g NaN3 Add water to a volume of 900 ml. Adjust to desired pH (7.2 to 7.4) using 1 M NaOH or 1 M HCl. Add water to get a final volume of 1 liter.
 
-&nbsp;
+
  
 ##### Blocking buffer:
  
 Borate-buffered saline (BBS) containing 0.05% Tween 20, 1 mM EDTA, 0.25% bovine serum albumin (BSA),0.05% NaN3. To prepare BBS, dissolve sodium borate Na2B4O7 (5.7 g) and NaCl (7g), in 1L water, then adjust to pH 8.5 with NaOH, then add 0.372 g EDTA (1mM EDTA),  0.05% tween 20, 0.25% bovine serum albumin (BSA), 0.05% NaN3. store at 40C.
 
-&nbsp;
+
 
 ##### Samples and standard solutions :
  
