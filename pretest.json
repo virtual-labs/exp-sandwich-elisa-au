@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. A positive result from sandwich ELISA indicates that the patient's serum contains:",
+      "answers": {
+        "a": "Specific antibody",
+        "b": "Specific antigen",
+        "c": "Cytokines",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An ELISA can be used for: ",
+      "answers": {
+        "a": "quantitative analysis",
+        "b": "size analysis",
+        "c": "absorbance measurements",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.Which is not true for a blocking buffer solution ?",
+      "answers": {
+        "a": "binds to all potential sites of nonspecific interaction",
+        "b": "improves the sensitivity of an assay by reducing background signal",
+        "c": "improves the signal-to-noise ratio",
+        "d": "alters or obscures the epitope for antibody binding"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Washing step can be performed with a physiologic buffer such as Tris-buffered saline (TBS) or phosphate-buffered saline (PBS):",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
